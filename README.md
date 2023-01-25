@@ -2,8 +2,6 @@
 
 ## "Cloud Basics"
 
-## Project Description
-
 ## Demo Project:
 Create server and deploy application on DigitalOcean
 ## Technologies used:
