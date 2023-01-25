@@ -1,8 +1,8 @@
-#### This project is for the Devops bootcamp exercise for
+## This project is for the Devops bootcamp exercise for
 
-#### "Cloud Basics"
+## "Cloud Basics"
 
-#### Project Description
+## Project Description
 
 ## Demo Project:
 Create server and deploy application on DigitalOcean
