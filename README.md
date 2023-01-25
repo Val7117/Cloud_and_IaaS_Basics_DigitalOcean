@@ -2,16 +2,6 @@
 
 ## "Cloud Basics"
 
-## Demo Project:
-Create server and deploy application on DigitalOcean
-## Technologies used:
-DigitalOcean, Linux, Java, Gradle
-## Project Description:
-Setup and configure a server on DigitalOcean
-Create and configure a new Linux user on the Droplet
-(Security best practice)
-Deploy and run a Java Gradle application on Droplet
-
 ##### Test
 The project uses jest library for tests. (see "test" script in package.json)
 There is 1 test (server.test.js) in the project that checks whether the main index.html file exists in the project. 
